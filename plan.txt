@@ -1,0 +1,4 @@
+-Landing page 
+-Navbar components
+-Main page
+-footer 
